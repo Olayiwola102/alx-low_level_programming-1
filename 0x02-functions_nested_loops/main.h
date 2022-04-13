@@ -24,13 +24,11 @@ void print_times_table(int n);
 
 /**
  *
- *  * main - Entry point
+* main - Entry point
  *
- *   *
- *
- *    * Return: nothing, return void
- *
- *     */
+     * Return: nothing, return void
+ 
+     */
 
 
 
